@@ -29,6 +29,7 @@ When the SSH connection drops, it reconnects automatically and restores every
 enabled tunnel.
 
 ---
+<img width="882" height="674" alt="image" src="https://github.com/user-attachments/assets/61424538-c6d1-4937-81c9-36d2871ae647" />
 
 ## 📸 Features
 
