@@ -10,7 +10,7 @@
 ![AsyncSSH](https://img.shields.io/badge/AsyncSSH-Backend-2f6fed)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-1f9d55)
 ![Platform](https://img.shields.io/badge/Linux-Desktop-orange?logo=linux)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 </p>
 
